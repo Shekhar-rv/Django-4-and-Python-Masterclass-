@@ -1,0 +1,14 @@
+/* How to create a css element to export to a HTML */
+
+/* Create a style for a particular tag */
+
+h1{
+    color:rgb(0, 21, 255);
+}
+
+/* Create for another heading tag */
+
+h2{
+    color: aquamarine;
+    background-color: blanchedalmond;
+}

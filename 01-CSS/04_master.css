@@ -1,0 +1,17 @@
+body{
+    /* Using font api from fonts.google.com */
+    font-family: "Moo Lah Lah";
+    /* Change default fon size */
+    font-size: 75%;
+}
+
+h1{
+    text-align: center;
+    /* Change font size to pixels */
+    font-size: 40px;
+}
+
+p{
+    /* 1em == 16px (default font size of the browser may vary) */
+    font-size: 2em;
+}

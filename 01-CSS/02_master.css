@@ -1,0 +1,21 @@
+/* There is specificity in CSS, what tag over rule other tag 
+regardless of the order it is executed in  */
+
+body{
+    background-color: cornflowerblue;
+}
+
+div{
+    background-color: chartreuse;
+    
+    /* you need border width and style to see the border */
+    border-color: orange;
+    border-width: 10px;
+    border-style: dotted;
+}
+
+/* Small scale over rules large scale */
+
+span{
+    background-color: red;
+}

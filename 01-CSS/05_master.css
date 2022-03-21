@@ -1,0 +1,18 @@
+/* The order of the CSS box model goes like Content, padding, border, margin */
+
+#up{
+    text-align: center;
+    /* Using short hand */
+    border: 10px solid blue;
+    /* margin-bottom: 100px;
+    margin-left: 100px; */
+
+    /* short hand for margin */
+    margin: 10px 20px 100px;
+}
+
+#down{
+    text-align: center;
+    border: 10px solid red;
+    padding-top: 20px;
+}

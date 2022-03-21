@@ -1,0 +1,18 @@
+/* How to use classes and ids to uniquely style, classes are to be reused throughout the code, ids are for a specific task */
+
+/* Refer to a class by using period '.' */
+
+.myclass{
+    color: red;
+}
+
+
+/* Refer to a id by using hashtag '#' */
+
+#one{
+    color: aqua;
+}
+
+#two{
+    color: greenyellow;
+}
